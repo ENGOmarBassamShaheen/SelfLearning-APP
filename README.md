@@ -2,7 +2,7 @@
 
 Welcome to the Self-Learning and Educational Courses Application! This application is designed to provide users with a platform for self-paced learning and access to educational courses. It aims to create a seamless learning experience for individuals of all backgrounds and interests.
 
-## Features
+## Features 
 
 - Course Catalog: Browse and search through a diverse range of educational courses available.
 - Course Enrollment: Enroll in courses of your choice and track your progress.
