@@ -1,6 +1,14 @@
 # Self-Learning and Educational Courses Application
 
 Welcome to the Self-Learning and Educational Courses Application! This application is designed to provide users with a platform for self-paced learning and access to educational courses. It aims to create a seamless learning experience for individuals of all backgrounds and interests.
+![alt text](https://i.suar.me/paOm6/l)
+![alt text](https://i.suar.me/XZzKE/l)
+![alt text](https://i.suar.me/nLemN/l)
+![alt text](https://i.suar.me/5ZAjV/l)
+![alt text](https://i.suar.me/LY3K4/l)
+
+
+
 
 ## Features 
 
